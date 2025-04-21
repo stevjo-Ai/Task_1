@@ -5,7 +5,7 @@ Name: Mall Customer Segmentation Data
 Source: Kaggle
 Records: 200
 
-Features
+# Features
 
 CustomerID
 
